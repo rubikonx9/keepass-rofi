@@ -1,0 +1,6 @@
+KeePass-Rofi
+============
+
+A simple KeePass client using Rofi.
+
+Currently, only allows to list the entries and copy password of selected entry to the clipboard.

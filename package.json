@@ -1,0 +1,15 @@
+{
+  "name": "keepass-rofi",
+  "version": "0.1.0",
+  "description": "Simple Keepass client with Rofi as user interface",
+  "main": "keepass-rofi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomasz.gorecki@protonmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "kdbxweb": "^1.2.7",
+    "rofix": "^1.1.3"
+  }
+}
